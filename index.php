@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" media="screen and (max-width: 768px)" href="styles/mobile.css">
     <link rel="stylesheet" href="styles/style.css">
-    <title>Document</title>
+    <title>Registration Form</title>
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body>
